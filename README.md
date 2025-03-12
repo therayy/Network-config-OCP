@@ -145,7 +145,6 @@ openshift-install create cluster --dir=<install-dir> --log-level=debug
 
 ---
 
-Would you like any modifications for UPenn’s specific environment? 🚀
 # OpenShift Network Pre-Check Script
 
 ## Overview
